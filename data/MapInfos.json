@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Lecture Hall Area ","order":2,"parentId":9,"scrollX":1638,"scrollY":906},
+{"id":2,"expanded":true,"name":"LH hallway","order":3,"parentId":1,"scrollX":1638,"scrollY":906},
+{"id":3,"expanded":false,"name":"LH class","order":4,"parentId":2,"scrollX":1638,"scrollY":906},
+{"id":4,"expanded":false,"name":"Seniors","order":5,"parentId":1,"scrollX":1622,"scrollY":1172},
+{"id":5,"expanded":true,"name":"KBH","order":6,"parentId":1,"scrollX":1638,"scrollY":906},
+{"id":6,"expanded":true,"name":"KBH Entrance ","order":7,"parentId":5,"scrollX":1638,"scrollY":906},
+{"id":7,"expanded":true,"name":"Room","order":8,"parentId":5,"scrollX":1638,"scrollY":906},
+{"id":8,"expanded":true,"name":"Admin Block ","order":11,"parentId":9,"scrollX":4666,"scrollY":890},
+{"id":9,"expanded":true,"name":"Overworld","order":1,"parentId":0,"scrollX":811,"scrollY":1494},
+{"id":10,"expanded":false,"name":"OAT","order":9,"parentId":1,"scrollX":1638,"scrollY":906},
+{"id":11,"expanded":false,"name":"Student's park","order":10,"parentId":9,"scrollX":1638,"scrollY":906},
+{"id":12,"expanded":false,"name":"EC room","order":12,"parentId":8,"scrollX":1638,"scrollY":906}
+]
